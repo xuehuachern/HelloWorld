@@ -25,7 +25,7 @@ SECRET_KEY = 'xmn(7^83_w+iw^3kvq2kbt_ip3tmv&$3+6e0&^gb!@mfjh--tw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
